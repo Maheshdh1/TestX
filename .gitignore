@@ -21,3 +21,28 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+# Node
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Next.js
+.next/
+out/
+
+# Env
+.env
+server/.env
+client/.env.local
+
+# Logs
+*.log
+
+# Build files
+dist/
+build/
+
+# Uploads
+uploads/
+
